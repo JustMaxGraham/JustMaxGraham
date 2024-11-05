@@ -1,5 +1,3 @@
 ### Hello World!
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maxhuwgraham/)
-
-
+![LinkedIn](https://i.stack.imgur.com/gVE0j.png)[LinkedIn](https://www.linkedin.com/in/maxhuwgraham/)
