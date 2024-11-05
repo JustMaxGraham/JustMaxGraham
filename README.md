@@ -1,3 +1,3 @@
 ### Hello World!
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png "LinkedIn")] (https://www.linkedin.com/in/maxhuwgraham/) [LinkedIn](https://www.linkedin.com/in/maxhuwgraham/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png "LinkedIn")](https://www.linkedin.com/in/maxhuwgraham/) [LinkedIn](https://www.linkedin.com/in/maxhuwgraham/)
